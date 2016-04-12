@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "sarvari!"
+title:  "RUP"
 date:   2016-04-10 22:38:32 +0430
 categories: jekyll update
 ---
-lk ldo,hl hl,vsajfajfhjk
+یک متدولوِژی وروشی برای تولید نرم افزار است.
 
-jhakjdhjkaf
+انواع متدولوژی
 
-تاتنیباتننب
-#
-تایاتت
-****
 
-**ننبنبن**
+1-1 HEAVY WEIGHT
+
+2-2 HIGH WEIGHT
+
